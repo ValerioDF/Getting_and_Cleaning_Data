@@ -1,3 +1,6 @@
+
+The script run_analysis.R is based on the following dataset.
+
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
