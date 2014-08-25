@@ -37,4 +37,4 @@ tbodyacc-std-z
 tgravityacc-mean-x  
 
 
-It finally creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
+5. It finally creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
